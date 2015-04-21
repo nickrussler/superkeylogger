@@ -1,0 +1,55 @@
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KeyloggerExample.csproj.GenerateResource.Cache
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe.config
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\nck\Desktop\KeyloggerExampleApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\nck\Desktop\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.pdb
+C:\mozdooo\KeyloggerExampleApplication(2)\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe.config
+C:\mozdooo\KeyloggerExampleApplication(2)\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.exe
+C:\mozdooo\KeyloggerExampleApplication(2)\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe.config
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe.config
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\bin\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\ResGen.read.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\ResGen.write.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (2)\KeyloggerExampleApplication\KeyloggerExampleApplication\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\bin\Debug\KeyloggerExample.exe.config
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\bin\Debug\KeyloggerExample.exe
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\bin\Debug\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\ResGen.read.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\nck\Desktop\Neuer Ordner (7)\KeyloggerExampleApplication (4)\obj\Debug\ResGen.write.1.tlog

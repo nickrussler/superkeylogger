@@ -1,0 +1,8 @@
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.klgForm.resources
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KeyloggerExample.csproj.GenerateResource.Cache
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KeyloggerExample.exe
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\KeyloggerExample.pdb
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KeyloggerExample.Properties.Resources.resources
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KeyloggerExample.exe
+C:\Users\nck\Desktop\Trash\project omega\Keylogger\keylooger\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\KeyloggerExample.pdb
